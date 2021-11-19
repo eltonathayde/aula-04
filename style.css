@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+main{
+    background-color: white;
+    margin: auto;
+    width: 800px;
+}
+
+.space{
+    margin-bottom: 30px;
+}
